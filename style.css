@@ -1,0 +1,34 @@
+header{
+    padding: 25px;
+    text-align: center;
+}
+h1{
+    text-shadow: 3px 3px 5px;
+}
+body{
+    background-image: url(woah.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    max-width: max-content;
+    margin: auto;
+}
+.box{
+    border: 7px solid;
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 50px;
+
+}
+#box1{
+    background-color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+footer{
+    padding: 15px;
+    text-align: center;
+}
