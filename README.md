@@ -1,2 +1,2 @@
-# baitapvenha
-đây là thử nghiệm tự học CSS và HTML. This project is free from AI
+# mywebsite
+This is my fisrt attemp to learning and playing around with html and css. This wesite is built from ground up with the love from me and the critism from many awesome peoples.
