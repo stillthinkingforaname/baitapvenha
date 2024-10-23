@@ -1,9 +1,10 @@
 header{
     padding: 25px;
     text-align: center;
+    font-family: arial;
 }
 h1{
-    text-shadow: 3px 3px 5px;
+    text-shadow: 3px 3px 7px grey;
 }
 body{
     background-image: url(woah.png);
@@ -13,14 +14,17 @@ body{
     background-size: cover;
     max-width: max-content;
     margin: auto;
+    max-width: 1250px;
+    font-family: arial;
 }
 .box{
-    border: 7px solid;
+    border: 3px solid;
     width: auto;
     height: auto;
     margin: auto;
     margin-top: 150px;
     margin-bottom: 50px;
+    padding: 25px;
 
 }
 #box1{
@@ -31,4 +35,5 @@ body{
 footer{
     padding: 15px;
     text-align: center;
+    font-family: arial;
 }
