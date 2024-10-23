@@ -7,15 +7,35 @@ h1{
     text-shadow: 3px 3px 7px grey;
 }
 body{
-    background-image: url(woah.webp);
+    background-image: url(woah.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
     max-width: max-content;
     margin: auto;
-    max-width: 1250px;
+    max-width: 1270px;
     font-family: arial;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: teal;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.navbar li{
+    float: left;
 }
 .box{
     border: 3px solid;
